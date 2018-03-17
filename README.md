@@ -1,27 +1,27 @@
 # Paket Installasi Ubuntuku
 Software yang Diinstalkan di Ubuntu ku<br>
 
+<a href=""></a><br>
 ### Office
 <a href="https://www.libreoffice.org/download/download/">LibreOffice</a><br>
-
-Web Server (LAMP)<br>
-PopSQL<br>
-Postman<br>
-StarUML<br>
-Android Studio<br>
-Google Chrome<br>
-Atom<br>
-Brackets<br>
-Visual Studio Code for Linux<br>
-MineTime<br>
-GitClient<br>
-MPV<br>
-Audacious<br>
-Unity Tweak Tools<br>
+<a href="https://github.com/septiyadii/Course-of-Website/wiki/Materi-K:-Membangun-Web-Server-di-VM-Ubuntu-Server-16.04.03-LTS">Web Server</a><br>
+<a href="https://popsql.io/">PopSQL</a><br>
+<a href="https://www.getpostman.com/">Postman</a><br>
+<a href="http://staruml.io/">StarUML</a><br>
+<a href="https://developer.android.com/studio/index.html?hl=id">Android Studio</a><br>
+<a href="https://www.google.com/chrome/">Google Chrome</a><br>
+<a href="https://atom.io/">Atom</a><br>
+<a href="http://brackets.io/">Brackets</a><br>
+<a href="https://code.visualstudio.com/">Visual Studio Code</a><br>
+<a href="https://code.visualstudio.com/">MineTime</a><br>
+<a href="https://www.gitkraken.com/">Git Kraken</a><br>
+<a href="https://mpv.io/installation/">MPV Player</a><br>
+<a href="https://audacious-media-player.org/download">Audacious</a><br>
+<a href="https://linux.tutorials.id/cara-install-unity-tweak-tool-di-ubuntu-16-04-xenial-xerus/">Unity Tweak Tools</a><br>
 <a href="https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?hl=en-GB">Draw.io for Desktop</a><br>
 
 ### Back End Resource
-JDK (Java Development Kit)<br>
+<a href="https://java.com">JDK (Java Development Kit)</a><br>
 
 ### Library Chrome
 <a href="https://chrome.google.com/webstore/detail/good-quotes/acmmhpghffjojopbdcjmpadajjiopijp">Good Quotes</a><br>
