@@ -27,3 +27,13 @@ JDK (Java Development Kit)<br>
 <a href="https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji">Multi-highlight</a><br>
 <a href="https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc">JSONView</a><br>
 <a href="https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm">Restlet Client - REST API Testing</a><br>
+<a href="https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm?utm_source=chrome-app-launcher-info-dialog">Vysor</a><br>
+<a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog">Postman</a><br>
+<a href="https://chrome.google.com/webstore/detail/google-hangouts/knipolnnllmklapflnccelgolnpehhpl?utm_source=chrome-app-launcher-info-dialog">Google Hangouts</a><br>
+
+### Theme Ubuntu Ku
+Mac
+Numix
+
+### Bookmark Chrome for Import
+17 Maret 2018 Update #1
