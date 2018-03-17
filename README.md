@@ -1,6 +1,5 @@
 # Paket Installasi Ubuntuku
 Software yang Diinstalkan di Ubuntu ku<br>
-
 <a href=""></a><br>
 ### Office
 <a href="https://www.libreoffice.org/download/download/">LibreOffice</a><br>
