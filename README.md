@@ -1,6 +1,6 @@
 # Paket Installasi Ubuntuku
-Software yang Diinstalkan di Ubuntu ku<br>
-<a href=""></a><br>
+Software yang Diinstalkan di Ubuntu ku | <a href=""></a><br>
+
 ### Office
 <a href="https://www.libreoffice.org/download/download/">LibreOffice</a><br>
 <a href="https://github.com/septiyadii/Course-of-Website/wiki/Materi-K:-Membangun-Web-Server-di-VM-Ubuntu-Server-16.04.03-LTS">Web Server</a><br>
