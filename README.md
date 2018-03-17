@@ -2,7 +2,8 @@
 Software yang Diinstalkan di Ubuntu ku<br>
 
 ### Office
-LibreOffice<br>
+<a href="https://www.libreoffice.org/download/download/">LibreOffice</a><br>
+
 Web Server (LAMP)<br>
 PopSQL<br>
 Postman<br>
