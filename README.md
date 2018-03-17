@@ -32,8 +32,8 @@ Software yang Diinstalkan di Ubuntu ku <a href=""></a><br>
 <a href="https://chrome.google.com/webstore/detail/google-hangouts/knipolnnllmklapflnccelgolnpehhpl?utm_source=chrome-app-launcher-info-dialog">Google Hangouts</a><br>
 
 ### Theme Ubuntu Ku
-Mac
-Numix
+<a href="https://github.com/septiyadii/install-macbntu-theme-on-ubuntu-16.04.03-lts">Mac</a><br>
+<a href="">Numix</a><br>
 
 ### Bookmark Chrome for Import
 <a href="https://github.com/septiyadii/paket-installasi-ubuntuku/blob/master/bookmarks_3_17_18.html">17 Maret 2018 Update #1</a><br>
