@@ -36,4 +36,4 @@ Mac
 Numix
 
 ### Bookmark Chrome for Import
-<a href="https://github.com/septiyadii/paket-installasi-ubuntuku">17 Maret 2018 Update #1</a><br>
+<a href="https://github.com/septiyadii/paket-installasi-ubuntuku/blob/master/bookmarks_3_17_18.html">17 Maret 2018 Update #1</a><br>
